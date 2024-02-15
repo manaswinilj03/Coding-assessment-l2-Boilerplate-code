@@ -1,3 +1,9 @@
+Project Link - https://manaswinilj03.github.io/Wedding-Planner-Project/
+
+
+
+
+
 # Coding Assessment L-2 Code Submission Process with Boilerplate
 
 Welcome to the coding assessment l2. We are excited to see your skills in action. Please follow the instructions below to submit your solution.
@@ -54,6 +60,10 @@ Take a moment to review the project structure:
 1. Create a ZIP file of your entire project.
 2. Upload the ZIP file to your Google Drive.
 3. Share the public link to the ZIP file via email.
+
+
+
+
 
 ## Hosting (Bonus)
 You can earn bonus points by hosting your project on a free hosting platform such as GitHub Pages or Netlify.
